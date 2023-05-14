@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T12:22:06.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" version="21.0.10" etag="UyPjQcPUJc3sME0V8xO7" type="github"><diagram name="Page-1" id="_8bVg4KcjQ-vCVTVF04H">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-14T13:52:41.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="yQ5ZehZeinsF6hELUFt6" version="21.2.9" type="github">
+  <diagram name="Page-1" id="_8bVg4KcjQ-vCVTVF04H">
+    <mxGraphModel dx="1675" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="umWqZruVvDM2PWf6XDRT-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="670" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umWqZruVvDM2PWf6XDRT-3" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umWqZruVvDM2PWf6XDRT-4" value="Đăng xuất" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="650" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umWqZruVvDM2PWf6XDRT-5" value="Đăng kí" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="700" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umWqZruVvDM2PWf6XDRT-6" value="Đổi password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="750" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="umWqZruVvDM2PWf6XDRT-7" value="xem danh sách sách" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="810" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="umWqZruVvDM2PWf6XDRT-8" value="tìm kiếm sách" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="880" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="umWqZruVvDM2PWf6XDRT-9" value="Khách hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umWqZruVvDM2PWf6XDRT-10" value="Thêm giỏ hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="430" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="umWqZruVvDM2PWf6XDRT-14" value="Xem giỏ hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umWqZruVvDM2PWf6XDRT-15" value="Đặt hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="490" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="umWqZruVvDM2PWf6XDRT-16" value="Xoá giỏ hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="umWqZruVvDM2PWf6XDRT-17" value="Cập nhật giỏ hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
