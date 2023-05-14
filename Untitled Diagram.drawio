@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T14:38:17.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="QS23V7koupZk_AHraIhn" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-14T14:49:02.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="KiVrEnX2xBJRZnggijLl" version="21.2.9" type="github">
   <diagram name="Page-1" id="_8bVg4KcjQ-vCVTVF04H">
     <mxGraphModel dx="825" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
         <mxCell id="UjHxAH2bX7CEvZFCcsbU-13" value="Quản lí đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="935" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UjHxAH2bX7CEvZFCcsbU-50" value="&amp;lt;extends&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;endArrow=block;endFill=0;" edge="1" parent="1" source="UjHxAH2bX7CEvZFCcsbU-49" target="umWqZruVvDM2PWf6XDRT-15">
+        <mxCell id="UjHxAH2bX7CEvZFCcsbU-50" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;endArrow=block;endFill=0;" edge="1" parent="1" source="UjHxAH2bX7CEvZFCcsbU-49" target="umWqZruVvDM2PWf6XDRT-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjHxAH2bX7CEvZFCcsbU-49" value="Thanh toán" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
