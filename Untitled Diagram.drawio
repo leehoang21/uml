@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T12:13:39.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="OCdeHcMP2qyT9AMGp1WE" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T12:14:47.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="pRkPb_sE1VSoYZbLCQ3f" version="21.2.9" type="github">
   <diagram name="Page-1" id="_8bVg4KcjQ-vCVTVF04H">
     <mxGraphModel dx="1675" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -272,7 +272,7 @@
             <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sLHNT4tgapf9YTz1h-s4-6" value="Nâng quyền người dùng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sLHNT4tgapf9YTz1h-s4-6" value="Tìm kiếm" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sLHNT4tgapf9YTz1h-s4-7" value="Gia hạn" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
