@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T11:57:59.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="AcRG0ftGMGCWmysPNfRK" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T12:00:15.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="oDpxP1vVzItXPCn8AmVq" version="21.3.8" type="github">
   <diagram name="Page-1" id="dvLurNVkI768US-QEDtv">
     <mxGraphModel dx="825" dy="1552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -229,6 +229,21 @@
           <mxGeometry x="0.1586" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ugRo239wMmRf-6rKSM6Q-52" value="Quản lý sách" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ugRo239wMmRf-6rKSM6Q-53" value="Thêm sách" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ugRo239wMmRf-6rKSM6Q-54" value="Xoá sách" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ugRo239wMmRf-6rKSM6Q-55" value="Tìm kiếm" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ugRo239wMmRf-6rKSM6Q-56" value="Sửa sách" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2160" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
