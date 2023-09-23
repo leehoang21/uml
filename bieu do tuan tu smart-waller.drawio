@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-23T14:04:29.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="LYnRC16Pn92eopAHjMwV" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-23T14:06:09.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="wrF3qYLvVV4jjdJ71sD0" version="21.8.0" type="github">
   <diagram name="Page-1" id="6JSv2GNNTz4to5v7QTzB">
-    <mxGraphModel dx="832" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="45" y="270" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I_y_SuYSCFqSklQbzh5j-12" value="Ứng dụng" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="310" y="75" width="100" height="490" as="geometry" />
+          <mxGeometry x="310" y="80" width="100" height="490" as="geometry" />
         </mxCell>
         <mxCell id="I_y_SuYSCFqSklQbzh5j-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="I_y_SuYSCFqSklQbzh5j-12">
           <mxGeometry x="45" y="80" width="10" height="58" as="geometry" />
@@ -114,7 +114,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I_y_SuYSCFqSklQbzh5j-53" value="trả về thông báo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="175" y="528" width="110" height="30" as="geometry" />
+          <mxGeometry x="175" y="518" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
