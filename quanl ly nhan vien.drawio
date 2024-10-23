@@ -674,6 +674,53 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="g9K8uFHmYA3gs5lm8Jhj-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g9K8uFHmYA3gs5lm8Jhj-255" target="g9K8uFHmYA3gs5lm8Jhj-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g9K8uFHmYA3gs5lm8Jhj-255" value="Quản lý" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1620" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g9K8uFHmYA3gs5lm8Jhj-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g9K8uFHmYA3gs5lm8Jhj-256" target="g9K8uFHmYA3gs5lm8Jhj-261">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g9K8uFHmYA3gs5lm8Jhj-256" value="Tạo mới nhân viên" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1770" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g9K8uFHmYA3gs5lm8Jhj-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g9K8uFHmYA3gs5lm8Jhj-258" target="g9K8uFHmYA3gs5lm8Jhj-267">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="2040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g9K8uFHmYA3gs5lm8Jhj-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g9K8uFHmYA3gs5lm8Jhj-258" target="g9K8uFHmYA3gs5lm8Jhj-271">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g9K8uFHmYA3gs5lm8Jhj-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g9K8uFHmYA3gs5lm8Jhj-258" target="g9K8uFHmYA3gs5lm8Jhj-273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g9K8uFHmYA3gs5lm8Jhj-258" value="danh sách nhân viên trạng thái&amp;nbsp;&lt;span id=&quot;docs-internal-guid-08595965-7fff-2dce-999a-a0b264ecbe9c&quot;&gt;&lt;ul style=&quot;margin-top:0;margin-bottom:0;padding-inline-start:48px;&quot;&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-size: 13pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space: pre; margin-left: 13.6063pt;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height:1.7999999999999998;text-align: justify;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 13pt; background-color: transparent; font-weight: 400; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; text-wrap-mode: wrap;&quot;&gt;Lưu mới, Từ chối, Yêu cầu bổ sung, Chờ xử lý.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1910" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g9K8uFHmYA3gs5lm8Jhj-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.489;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g9K8uFHmYA3gs5lm8Jhj-256" target="g9K8uFHmYA3gs5lm8Jhj-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g9K8uFHmYA3gs5lm8Jhj-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g9K8uFHmYA3gs5lm8Jhj-261" target="g9K8uFHmYA3gs5lm8Jhj-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g9K8uFHmYA3gs5lm8Jhj-261" value="button tạo mới" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g9K8uFHmYA3gs5lm8Jhj-262" value="register&lt;div&gt;api create employee&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1900" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g9K8uFHmYA3gs5lm8Jhj-267" value="button chỉnh sửa&lt;div&gt;api update employee&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="2050" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g9K8uFHmYA3gs5lm8Jhj-271" value="button xóa&lt;div&gt;api delete employee&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="2020" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g9K8uFHmYA3gs5lm8Jhj-273" value="lưu&lt;div&gt;api create employê&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="2020" width="130" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
